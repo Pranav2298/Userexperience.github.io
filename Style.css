@@ -21,7 +21,7 @@ body {
     width: 100%;
     background-position: center;
     background-size: cover;
-    background-image: url('/Users/pranavtawade/Downloads/Pranav.jpg');
+    background-image: url('Pranav.jpg');
   }
   nav {
     display: flex;
